@@ -3,8 +3,8 @@ import qs.Commons
 import qs.Modules.Bar.Extras
 import qs.Services.UI
 import qs.Widgets
-import QtQuick
-import QtQuick.Controls
+import QtQuick 6.11
+import QtQuick.Controls 6.11
 
 Item {
     id: root

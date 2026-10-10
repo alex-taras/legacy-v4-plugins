@@ -2,8 +2,8 @@ import qs.Commons
 import qs.Widgets
 import qs.Services.UI
 import qs.Services.System
-import QtQuick
-import QtQuick.Layouts
+import QtQuick 6.11
+import QtQuick.Layouts 6.11
 import Quickshell
 
 Item {

@@ -7,8 +7,8 @@
 //
 // SPDX-License-Identifier: GPL-3.0-only
 import Qt.labs.folderlistmodel
-import QtQuick
-import QtQuick.Layouts
+import QtQuick 6.11
+import QtQuick.Layouts 6.11
 import Quickshell
 import Quickshell.Io
 import qs.Commons

@@ -1,6 +1,6 @@
 import qs.Commons
 import qs.Widgets
-import QtQuick
+import QtQuick 6.11
 import QtMultimedia
 import Qt5Compat.GraphicalEffects
 

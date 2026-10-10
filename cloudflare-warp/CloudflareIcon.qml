@@ -1,5 +1,5 @@
-import QtQuick
-import QtQuick.Effects
+import QtQuick 6.11
+import QtQuick.Effects 6.11
 import qs.Commons
 
 Item {

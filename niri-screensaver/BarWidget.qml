@@ -12,8 +12,8 @@
 // respects the user's bar.showCapsule and bar.showOutline preferences.
 //
 // SPDX-License-Identifier: GPL-3.0-only
-import QtQuick
-import QtQuick.Effects
+import QtQuick 6.11
+import QtQuick.Effects 6.11
 import Quickshell
 import Quickshell.Io
 import qs.Commons

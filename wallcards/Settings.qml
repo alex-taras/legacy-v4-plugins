@@ -1,7 +1,7 @@
 import qs.Commons
 import qs.Widgets
-import QtQuick
-import QtQuick.Layouts
+import QtQuick 6.11
+import QtQuick.Layouts 6.11
 import Quickshell
 
 ColumnLayout {

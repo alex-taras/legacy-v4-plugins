@@ -1,8 +1,8 @@
-import QtQuick
-import QtQuick.Controls
+import QtQuick 6.11
+import QtQuick.Controls 6.11
 import Quickshell.Wayland
 import Quickshell.Io
-import QtQuick.Layouts
+import QtQuick.Layouts 6.11
 import Quickshell
 import qs.Commons
 import qs.Services.Keyboard

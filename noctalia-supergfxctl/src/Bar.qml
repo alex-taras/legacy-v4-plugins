@@ -6,7 +6,7 @@
 
 pragma ValueTypeBehavior: Addressable
 
-import QtQuick
+import QtQuick 6.11
 
 import Quickshell
 

@@ -1,8 +1,8 @@
-import QtQuick
+import QtQuick 6.11
 import Quickshell
 import Quickshell.Io
-import QtQuick.Layouts
-import QtQuick.Controls
+import QtQuick.Layouts 6.11
+import QtQuick.Controls 6.11
 import qs.Commons
 import qs.Widgets
 import qs.Services.UI

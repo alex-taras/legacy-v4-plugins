@@ -1,7 +1,7 @@
 pragma ComponentBehavior: Bound
-import QtQuick
-import QtQuick.Controls
-import QtQuick.Layouts
+import QtQuick 6.11
+import QtQuick.Controls 6.11
+import QtQuick.Layouts 6.11
 
 import qs.Commons
 import qs.Services.UI

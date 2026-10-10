@@ -1,6 +1,6 @@
-import QtQuick
-import QtQuick.Layouts
-import QtQuick.Effects
+import QtQuick 6.11
+import QtQuick.Layouts 6.11
+import QtQuick.Effects 6.11
 import Quickshell
 import qs.Commons
 import qs.Widgets

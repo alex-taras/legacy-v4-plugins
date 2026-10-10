@@ -1,6 +1,6 @@
-import QtQuick
-import QtQuick.Layouts
-import QtQuick.Shapes
+import QtQuick 6.11
+import QtQuick.Layouts 6.11
+import QtQuick.Shapes 6.11
 import Qt5Compat.GraphicalEffects
 import Quickshell
 import Quickshell.Io

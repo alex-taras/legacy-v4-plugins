@@ -1,6 +1,6 @@
-import QtQuick
-import QtQuick.Layouts
-import QtQuick.Controls
+import QtQuick 6.11
+import QtQuick.Layouts 6.11
+import QtQuick.Controls 6.11
 import Quickshell
 import Quickshell.Io
 import qs.Commons

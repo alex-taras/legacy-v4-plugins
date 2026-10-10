@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-import QtQuick
+import QtQuick 6.11
 
 import Quickshell
 
